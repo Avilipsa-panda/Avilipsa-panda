@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Avilipsa Panda
-**A passionate Full-Stack Developer || ASP.NET Developer || Web App Builder from India**
+**A passionate Full-Stack Developer || Front-end Developer || Web App Builder from India**
 
 - ✉️ **Email Me:** avilipsap6@gmail.com
  for collaboration, projects, or anything else 😊
