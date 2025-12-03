@@ -1,18 +1,25 @@
 # 💫 Hi 👋, I'm Avilipsa Panda
-**A passionate Full-Stack Developer || Front-end Developer || Web App Builder from India**
+**An enthusiastic full-stack developer crafting modern web applications with clean UI and solid functionality.**
 
 - ✉️ **Email Me:** avilipsap6@gmail.com
  for collaboration, projects, or anything else 😊
 
-- 🔭  **I’m currently working on:**  Online Quiz Management System (ASP.NET + MySQL)
-- 🌱  **I’m currently learning:** Full-Stack Development, C#, Python
+- 🔭  **I’m currently working on:**  Backend Webdevelopment
+- 🌱  **I’m currently learning:** Full-Stack Development
 - 👯  **I’m looking to collaborate on:** Web Development Projects & Real-World Utility Tools
-- 🤔  **I’m looking for help with:**  Backend webdevelopment
+- 🤔  **I’m looking for help with:** webdevelopment
 - 💬  **Ask me about:** Web Development, ASP.NET, MySQL, Frontend UI
 - 📫  **How to reach me:** avilipsap6@gmail.com
 
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun fact:** I break bugs more than they break me 😄
+
+  [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https:/sima1177.io)
+
+<h3 align="center">A passionate full stack developer from India</h3>
+
+[![An image of @sima1177's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sima1177)](https://holopin.io/@sima1177)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Avilipsa-panda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ## 🌐 Socials:
